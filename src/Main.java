@@ -5,3 +5,4 @@ public class Main {
         FizzBuzz.main(args);
     }
 }
+// added Main file to call FizzBuzz
