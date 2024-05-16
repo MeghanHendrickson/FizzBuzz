@@ -290,6 +290,7 @@ through the readings over the next couple of weeks.
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message.
 
 ### Task 3.4 Pulling changes from GitHub
+THIS IS MY UPDATED TEXT
 
 So far we have only talked about how to *push local changes* to a remote repository on GitHub. In practice, several
 programmers will often be working in the same remote repository. So when one programmer pushes their changes, everyone
